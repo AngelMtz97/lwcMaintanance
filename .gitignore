@@ -1,0 +1,10 @@
+
+package.xml
+
+# LWC configuration files
+**/jsconfig.json
+**/.eslintrc.json
+
+.config
+.sf
+.sfdx
